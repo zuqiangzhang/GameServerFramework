@@ -4,7 +4,7 @@
 
 int main(int argc, char *argv[])
 {
-   std::cout << "Hello World!" << std::endl;
+   std::cout << "Asio Hello World!" << std::endl;
 
    boost::circular_buffer<char> cb(3);
 
